@@ -8,8 +8,8 @@
 ```markdown
 Statistical genetics
 Bioinoformatics
-
 ```
 
-![image](sipengshen.github.io/微信图片_20220731232120.jpg)
+![image](https://github.com/sipengshen/sipengshen.github.io/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220731232120.jpg)
+
 
