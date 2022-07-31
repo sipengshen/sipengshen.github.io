@@ -1,6 +1,6 @@
 ## Welcome to Sipeng Shen's website
 
-You can use the [editor on GitHub](https://github.com/sipengshen/sipengshen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Chinese Faculty website](https://gwxy.njmu.edu.cn/2019/1115/c8948a157713/page.htm).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
